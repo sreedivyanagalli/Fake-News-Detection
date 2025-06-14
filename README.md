@@ -44,3 +44,6 @@ An interactive Flask app (`webapp.ipynb`) allows users to input any political st
 # To run locally
 pip install flask tensorflow
 python webapp.ipynb
+
+-Skills-
+`TensorFlow`, `Keras`, `Flask`, `scikit-learn`, `Python`, `Pandas`, `NumPy`, `Matplotlib`, `BiLSTM`, `LSTM`, `RNN`, `Binary Classification`, `Text Classification`, `GloVe Embeddings`, `Tokenization`, `Padding`, `EarlyStopping`, `train_test_split`
