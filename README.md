@@ -25,9 +25,9 @@ This project aims to accurately classify political statements as fake or real us
 
 | Model   | Description                          | Performance |
 |---------|--------------------------------------|-------------|
-| RNN     | Simple sequential processing         | ~72%        |
-| LSTM    | Captures long-term dependencies      | ~79%        |
-| BiLSTM  | Bidirectional context, best performer| 83.5%       |
+| RNN     | Simple sequential processing         | ~64%        |
+| LSTM    | Captures long-term dependencies      | ~58%        |
+| BiLSTM  | Bidirectional context, best performer| 65%       |
 
 All models used:
 - 100D GloVe Embeddings
